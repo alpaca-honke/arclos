@@ -1,0 +1,19 @@
+{
+  "name": "arclos",
+  "version": "0.0.1",
+  "description": "Amateur Radio Communication LOgging System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpaca-honke/arclos.git"
+  },
+  "author": "Kosuke Tsutsumi, Shibaura Institute of Technology Ham Radio Club",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alpaca-honke/arclos/issues"
+  },
+  "homepage": "https://github.com/alpaca-honke/arclos#readme"
+}
